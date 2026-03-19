@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github.com/BaseUQ/.github/blob/main/img/BASE_logo_transparent.png?raw=true" alt="BASE logo" height="200">
 
 <!--
 
