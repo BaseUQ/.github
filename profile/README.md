@@ -1,12 +1,10 @@
-<img src="https://github.com/BaseUQ/.github/blob/main/img/BASE_logo_transparent.png?raw=true" alt="BASE logo" height="200">
+<img src="https://github.com/BaseUQ/.github/blob/main/img/BASE_logo_transparent.png?raw=true" alt="BASE logo" height="80" style="display: block; margin-bottom: 30px;"/>
+# mRNArchitect
 
-<!--
+*mRNArchitect* is a software toolkit developed to optimise mRNA sequences for improved protein expression, enhanced stability, increased translation efficiency, and reduced immune reactogenicity. The software uses an optimisation strategy based on the *DNAChisel* framework to generate and assemble mRNA sequences accoridng to user specified parameters.
 
-**Here are some ideas to get you started:**
+Access the mRNArchitect web interface at [http://www.basefacility.org.au/software](http://www.basefacility.org.au/software).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Support and Documentation
+
+For more information, please refer to the **Help** section within the mRNArchitect interface. If you encounter any issues or have support requests or feedback, contact us at [basedesign@uq.edu.au](mailto:basedesign@uq.edu.au). Please provide a clear description with enough detail to allow the issue to be reproduced.
