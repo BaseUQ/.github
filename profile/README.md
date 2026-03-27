@@ -1,6 +1,6 @@
 <img src="https://github.com/BaseUQ/.github/blob/main/img/mRNArchitect_banner_transparent.png?raw=true" alt="mRNArchitect banner" height="200" style="display: block; margin-bottom: 30px;"/>
 
-**mRNArchitect** is used to design mRNA medicines. The software optimises primary mRNA sequences for enhanced expression, stability and low reactogenicity. mRNArchitect is used to design mRNA vaccines, proteins, cell- and gene-therapies and has been experimentally validated in different applications, experiments and  cell-types and tissues, and is accompanied by catalog of of validated mRNA elements (UTRs, polyA, SPs, etc).
+**mRNArchitect** is used to design mRNA medicines. The software optimises primary mRNA sequences for enhanced expression, stability and low reactogenicity. mRNArchitect is used to design vaccines, proteins, antibodies, cell- and gene-therapies, and has been experimentally validated in many different applications, cell-types and tissues. Our designs are also accompanied by useful catalog of of validated mRNA elements (UTRs, polyA, SPs, etc).
 
 Access the mRNArchitect web interface at [http://www.basefacility.org.au/software](http://www.basefacility.org.au/software).
 
